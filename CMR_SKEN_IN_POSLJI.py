@@ -82,8 +82,8 @@ for pageNum in range(0,pageCount):
         contactToSendTo = "Nema nikog"
         neposlaniMaili.append(page.number)
 
-    sender = 'muhamedkulauzovic@gmail.com'
-    password = 'afwknydasfmkfqba'
+    sender = '2'
+    password = '2'
     receiver = contactsData[contact]
 
     message = MIMEMultipart()
